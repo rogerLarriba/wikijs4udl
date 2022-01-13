@@ -2,7 +2,7 @@
 title: Estructura del projecte
 description: Estructura del projecte i la comuinitat que el forma
 published: true
-date: 2022-01-13T21:42:10.027Z
+date: 2022-01-13T22:10:06.743Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T21:16:32.928Z
