@@ -2,7 +2,7 @@
 title: Introducció
 description: Descripció del projecte, objectius i estat
 published: true
-date: 2022-01-14T17:33:41.976Z
+date: 2022-01-14T17:37:15.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T18:26:01.024Z
@@ -21,3 +21,4 @@ Els objectius principals darrere de wiki.js són: crear el motor de wikis més p
 La primera alpha va sortir el dia 12 de setembre de 2016, va ser creada per Nicolas Giard i altres membres de la comunitat que formen la comunitat de wiki.js. La primera beta va sortir el 28 de gener de 2017 i mig any després, el 27 de juliol, va sortir la primera versió, que és la 1.0.1.
 ## Estat actual
 En l'actualitat el projecte està molt actiu, 148 contribuïdors a GitHub, i amb la versió 2.5.268 que va sortir el 27 de desembre de 2021 i està prevista la sortida de wiki.js 3.0 de la qual porten dient novetats un any sencer.
+![88x31.png](/88x31.png)
