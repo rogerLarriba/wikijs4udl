@@ -2,7 +2,7 @@
 title: Finaçament
 description: Descripcio de com es financia wiki.js
 published: true
-date: 2022-01-14T17:30:14.334Z
+date: 2022-01-14T17:37:32.426Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T21:05:46.832Z
@@ -25,3 +25,4 @@ Podem veure que totes les fonts d'ingressos actuals, a excepció de les samarret
 
 ## Llicencia
 Com hem comentat en la introducció, wiki.js té una llicència GNU AGPL 3. Aquesta llicència es va crear per a evitar els problemes que generava el GNU GPL 2.0 amb els serveis online. D'aquesta manera a l'ajuntar el GNU GPL 3 i l'AGPL es podia resoldre tant la qüestió del GNU GPL 2 com els problemes de compatibilitat que les antigues llicències GNU tenien amb l'AGPL. La llicencia GNU AGPL és a grans trets el GNU GPL 3 amb una característica extra que especifica que si tu estàs corrent una versió modificada d'un programa en el teu servidor i altres usuaris interactuen amb ella, tu els hi has de donar accés a la descàrrega del codi font modificat.
+![88x31.png](/88x31.png)
