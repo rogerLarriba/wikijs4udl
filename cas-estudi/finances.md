@@ -2,7 +2,7 @@
 title: Finaçament
 description: Descripcio de com es financia wiki.js
 published: true
-date: 2022-01-13T21:05:46.832Z
+date: 2022-01-14T16:44:25.347Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T21:05:46.832Z
