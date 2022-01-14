@@ -2,7 +2,7 @@
 title: Comparació entre motors de wiki
 description: Comparacio entre wiki.js i mediawiki
 published: true
-date: 2022-01-14T17:15:56.649Z
+date: 2022-01-14T17:17:19.227Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-14T16:39:16.889Z
