@@ -2,7 +2,7 @@
 title: Estructura del projecte
 description: Estructura del projecte i la comuinitat que el forma
 published: true
-date: 2022-01-14T17:27:48.458Z
+date: 2022-01-14T17:37:49.549Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-13T21:16:32.928Z
@@ -31,3 +31,7 @@ La comunitat de wiki.js és una comunitat mitjana formada per 148 desenvolupador
 - Paypal
 - Criptomonedes (Bitcoin i Ethereum)
 - Samarretes
+
+
+
+![88x31.png](/88x31.png)
