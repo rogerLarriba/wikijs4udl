@@ -2,7 +2,7 @@
 title: Comparació entre motors de wiki
 description: Comparacio entre wiki.js i mediawiki
 published: true
-date: 2022-01-14T17:38:04.232Z
+date: 2022-01-14T17:38:18.648Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-14T16:39:16.889Z
@@ -16,4 +16,9 @@ Si el que es vol fer és una wiki professional que requereixi la màxima seguret
 És difícil comparar les comunitats de wiki.js i MediaWiki, ja que com hem mencionat, MediaWiki porta quasi vint anys al mercat i wiki.js no arriba als 5, per tant, MediaWiki ha tingut més temps per crear una comunitat major i això es reflecteix en el número de commits, membres i línies de codi que s'afegeixen. Wiki.js té un total de 2759 commits al llarg de la seva vida, el total de commits en un any de MediaWiki és de 20845, pràcticament 10 vegades més. En conseqüència, podem observar que les comunitats no són comparables a causa dels factors ja mencionats.
 ## Llenguatge
 MediaWiki està fet majoritàriament amb PHP i una mica de JavaScript mentre que wiki.js està fet de manera quasi integra amb JavaScript.
+
+
+
+
+
 ![88x31.png](/88x31.png)
